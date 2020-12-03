@@ -1,9 +1,5 @@
 
-Please Subscribe my YouTube channel...!!!
-=
-Subscribe: https://www.youtube.com/channel/UCbbDemaGCFF8QQCps6pGiQg
 
-Watch my youtube video for the full tutorial: https://youtu.be/PTCOyBhUvqA
 
 Install and configure ELK on RHEL/CentOS 7
 =
